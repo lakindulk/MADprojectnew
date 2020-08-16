@@ -1,13 +1,29 @@
 <resources>
-    <string name="app_name">MADprojectF</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="l_navigation_drawer_open">Open navigation drawer</string>
+    <string name="l_navigation_drawer_close">Close navigation drawer</string>
+    <string name="l_nav_header_title">Android Studio</string>
+    <string name="l_nav_header_subtitle">android.studio@android.com</string>
+    <string name="l_nav_header_desc">Navigation header</string>
+    <string name="l_action_settings">Settings</string>
+    <string name="l_menu_Search">Search</string>
+    <string name="l_menu_Favourites">Favourites</string>
+    <string name="l_menu_Rules">Rules</string>
+    <string name="l_menu_view">View</string>
+    <string name="l_fr_delete">DELETE</string>
+    <string name="l_fr_view">VIEW</string>
+    <string name="l_fr_profile">VIEW PROFILE</string>
+    <string name="l_fr_edit">EDIT|DELETE</string>
+    <string name="l_fr_search">SEARCH</string>
+    <string name="l_fr_s_fe">FEMALE</string>
+    <string name="l_fr_s_ma">MALE</string>
+    <string name="l_fr_s_sinhala">SINHALA</string>
+    <string name="l_fr_s_muslim">MUSLIM</string>
+    <string name="l_fr_s_tamil">TAMIL</string>
+    <string name="l_fr_s_t">TRAVEL</string>
+    <string name="l_fr_s_m">MUSIC</string>
+    <string name="l_fr_s_c">COOKING</string>
+    <string name="l_fr_s_a">ART</string>
+
+
 </resources>

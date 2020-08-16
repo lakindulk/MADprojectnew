@@ -1,16 +1,16 @@
-package com.example.madprojectf.ui.home;
+package com.example.madprojectf.ui.favourite;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class HomeViewModel extends ViewModel {
+public class FavouriteViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public HomeViewModel() {
+    public FavouriteViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is home fragment");
+        mText.setValue("");
     }
 
     public LiveData<String> getText() {
