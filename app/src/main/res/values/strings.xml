@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LOULY</string>
+    <string name="check_box1">Km</string>
+    <string name="logout_button">Logout</string>
+    <string name="delete_button">Delete Account</string>
+    <string name="check_box2">Mi</string>
+    <string name="my_location">My Current Location</string>
+    <string name="contact">Contact Us</string>
+    <string name="my_choise">Women</string>
+    <string name="select_switch1">Show me on Louly</string>
+    <string name="select_switch2">Global</string>
+
+</resources>
