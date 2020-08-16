@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dating app</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ID">"ID"</string>
+    <string name="Name">"Name"</string>
+    <string name="Email">"Email"</string>
+    <string name="Age">"Age"</string>
+    <string name="Gender">"Gender"</string>
+    <string name="Religion">"Religion"</string>
+    <string name="CreateAccount">"Create Account"</string>
+    <string name="UpdateorDeleteAccount">"Update or Delete Account"</string>
+    <string name="Sinhala">"Sinhala"</string>
+    <string name="male">"male"</string>
+    <string name="a26">"26"</string>
+    <string name="atc">"9719025897"</string>
+    <string name="man">"V.C.F.Perera"</string>
+    <string name="em">"vcfperera@gmail.com"</string>
+</resources>
