@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LoulyDatingApp</string>
+    <string name="K_Logo">Louly</string>
+    <string name="K_login_description">By clicking Login, you agree with our Terms. Learn how we process your data in our Privacy Policy and Cookies Policy</string>
+    <string name="K_btnPhone">LOGIN WITH PHONE NUMBER</string>
+    <string name="K_btnFacebook">LOGIN WITH FACEBOOK</string>
+    <string name="K_btnInstagram">LOGIN WITH INSTAGRAM</string>
+    <string name="K_btnGoogle">LOGIN WITH GOOGLE</string>
+    <string name="K_topic2">My number is</string>
+    <string name="K_numberadd_description">When you tap Continue, Louly will send a text with verification code. Message and data rates may apply. The verified
+        phone number can be used to login.</string>
+    <string name="K_phone_num">Phone Number</string>
+    <string name="K_btnContinue">CONTINUE</string>
+    <string name="K_Welcome">Welcome to Louly</string>
+    <string name="K_WelcomeNote">Please follow these House Rules</string>
+    <string name="K_Rule1">Be yourself.</string>
+    <string name="K_Rule1Note">Make sure your photos, age and bio are true to who you are.</string>
+    <string name="K_Rule2">Stay safe.</string>
+    <string name="K_Rule2Note">Do not be too quick to give out personal information.</string>
+    <string name="K_Rule3">Play it cool.</string>
+    <string name="K_Rule3Note">Respect others and treat them as you would like to be treated.</string>
+    <string name="K_Rule4">Be proactive.</string>
+    <string name="K_Rule4Note">Always report bad behaviors.</string>
+    <string name="K_btnAgree">I AGREE</string>
+    <string name="K_topic3">Edit Profile</string>
+    <string name="K_AddMedia">Add Media</string>
+    <string name="K_DeleteMedia">Delete Media</string>
+    <string name="K_DeleteAccountDetails">Delete Account Details</string>
+    <string name="topic4">Choose Method</string>
+    <string name="K_camera">Camera</string>
+    <string name="K_gallery">Gallery</string>
+    <string name="K_facebook">Facebook</string>
+    <string name="K_Delete_account_details_topic">Are you sure you want to delete your Social media details?</string>
+    <string name="K_Delete_account_details_note">If you delete your social media details, you will be permanently lose your profile, photos and matches. If you delete your
+        account details, this action cannot be undone.</string>
+    <string name="K_Delete_Details">DELETE MY ACCOUNT DETAILS</string>
+    <string name="K_Confirm_delete_msg">Confirm Delete</string>
+    <string name="K_Confirm_delete_msg_note">Are you sure you want to delete this Media?</string>
+    <string name="K_btn_yes">YES</string>
+    <string name="K_btn_no">No</string>
+
+</resources>
